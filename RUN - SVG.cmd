@@ -1,0 +1,1 @@
+.\qrgen.exe .\X.csv -o OUTPUT
